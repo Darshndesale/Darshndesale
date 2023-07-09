@@ -1,9 +1,9 @@
 
-![MasterHead](https://itsjonjones96.medium.com/the-most-popular-web-development-technologies-of-2021-b67cbb2c02e7.gif)](https://darshandesale.io)
+
 
 <h1 align="center">Hi 👋, I'm Darshan Desale</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" alt="coderimg">
+<h3 align="left">A passionate frontend developer from India</h3>
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" alt="coderimg" align="right">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darshndesale&label=Profile%20views&color=0e75b6&style=flat" alt="darshndesale" /> </p>
 
 <p align="left"> <a href="https://twitter.com/darshandesale" target="blank"><img src="https://img.shields.io/twitter/follow/darshandesale?logo=twitter&style=for-the-badge" alt="darshandesale" /></a> </p>
