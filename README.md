@@ -1,9 +1,9 @@
 
-![MasterHead](https://itsjonjones96.medium.com/the-most-popular-web-development-technologies-of-2021-b67cbb2c02e7)](https://darshandesale.io)
+![MasterHead](https://itsjonjones96.medium.com/the-most-popular-web-development-technologies-of-2021-b67cbb2c02e7.gif)](https://darshandesale.io)
 
 <h1 align="center">Hi 👋, I'm Darshan Desale</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coderimg" width="400">
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" alt="coderimg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darshndesale&label=Profile%20views&color=0e75b6&style=flat" alt="darshndesale" /> </p>
 
 <p align="left"> <a href="https://twitter.com/darshandesale" target="blank"><img src="https://img.shields.io/twitter/follow/darshandesale?logo=twitter&style=for-the-badge" alt="darshandesale" /></a> </p>
@@ -19,9 +19,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/darshandesale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="darshandesale" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/darshan-desale-b66915257/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/darshan-desale-b66915257/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/darsh_20/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/darsh_20/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/darshanduyvb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/darshanduyvb" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/darshan-desale-b66915257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="darshan-desale-b66915257" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/darsh_20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="darsh_20" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/darshanduyvb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="darshanduyvb" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
